@@ -1,0 +1,15 @@
+VIP
+member
+normal
+vipmember
+123
+
+null
+VIP
+VIP
+member
+member
+normal
+2
+2
+1
